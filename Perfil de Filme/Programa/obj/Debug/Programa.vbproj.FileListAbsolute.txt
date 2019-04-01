@@ -1,0 +1,27 @@
+c:\users\lab-05\documents\visual studio 2012\Projects\Programa\Programa\bin\Debug\Programa.exe.config
+c:\users\lab-05\documents\visual studio 2012\Projects\Programa\Programa\obj\Debug\Programa.Form1.resources
+c:\users\lab-05\documents\visual studio 2012\Projects\Programa\Programa\obj\Debug\Programa.vbproj.GenerateResource.Cache
+c:\users\lab-05\documents\visual studio 2012\Projects\Programa\Programa\bin\Debug\Programa.exe
+c:\users\lab-05\documents\visual studio 2012\Projects\Programa\Programa\bin\Debug\Programa.pdb
+c:\users\lab-05\documents\visual studio 2012\Projects\Programa\Programa\bin\Debug\Programa.xml
+c:\users\lab-05\documents\visual studio 2012\Projects\Programa\Programa\obj\Debug\Programa.Resources.resources
+c:\users\lab-05\documents\visual studio 2012\Projects\Programa\Programa\obj\Debug\Programa.exe
+c:\users\lab-05\documents\visual studio 2012\Projects\Programa\Programa\obj\Debug\Programa.xml
+c:\users\lab-05\documents\visual studio 2012\Projects\Programa\Programa\obj\Debug\Programa.pdb
+C:\Users\Rafael\source\repos\Programa\Programa\bin\Debug\Programa.exe.config
+C:\Users\Rafael\source\repos\Programa\Programa\bin\Debug\Programa.exe
+C:\Users\Rafael\source\repos\Programa\Programa\bin\Debug\Programa.pdb
+C:\Users\Rafael\source\repos\Programa\Programa\bin\Debug\Programa.xml
+C:\Users\Rafael\source\repos\Programa\Programa\obj\Debug\Programa.vbprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\Programa\Programa\obj\Debug\Programa.Form1.resources
+C:\Users\Rafael\source\repos\Programa\Programa\obj\Debug\Programa.Resources.resources
+C:\Users\Rafael\source\repos\Programa\Programa\obj\Debug\Programa.vbproj.GenerateResource.cache
+C:\Users\Rafael\source\repos\Programa\Programa\obj\Debug\Programa.vbproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\Programa\Programa\obj\Debug\Programa.exe
+C:\Users\Rafael\source\repos\Programa\Programa\obj\Debug\Programa.xml
+C:\Users\Rafael\source\repos\Programa\Programa\obj\Debug\Programa.pdb
+C:\Users\Rafael\source\repos\Programa\Programa\obj\Debug\Programa.Form2.resources
+C:\Users\Rafael\source\repos\Programa\Programa\bin\Debug\Programa.exe.manifest
+C:\Users\Rafael\source\repos\Programa\Programa\bin\Debug\Programa.application
+C:\Users\Rafael\source\repos\Programa\Programa\obj\Debug\Programa.exe.manifest
+C:\Users\Rafael\source\repos\Programa\Programa\obj\Debug\Programa.application
